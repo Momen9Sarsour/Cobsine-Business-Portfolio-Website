@@ -57,7 +57,7 @@ You can easily customize the website to fit your branding and needs:
 You can add images to showcase your project here. For example, add screenshots of the site or images of the services you provide. Make sure to replace the image paths with your own.
 
 - 📸 **Website Screenshot**:
-  ![Website Screenshot](path/to/your/image.jpg)
+  ![Website Screenshot](photo-cobsine/logo.png)
 
 > **Note**: Update the image path to reflect the location of your image in the project.
 
