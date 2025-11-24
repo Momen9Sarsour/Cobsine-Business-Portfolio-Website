@@ -59,23 +59,11 @@ You can add images to showcase your project here. For example, add screenshots o
 - 📸 **Website Screenshot**:
   ![Website Screenshot](photo-cobsine/logo.png)
 
-> **Note**: Update the image path to reflect the location of your image in the project.
-
 ## **Live Demo**
 
 You can view the live demo of the website using the link below:
 
 [Live Demo of Website](https://example.com)
-
-> **Note**: Make sure to update the link to your live demo URL, whether it's hosted on GitHub Pages, Netlify, or any other platform.
-
-## **Contributing**
-
-Feel free to fork the repository and create a pull request if you want to contribute improvements, bug fixes, or new features. Contributions are always welcome!
-
-## **License**
-
-This project is open-source and licensed under the **MIT License**. You can find more details in the LICENSE file.
 
 ---
 
